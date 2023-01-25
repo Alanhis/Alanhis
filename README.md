@@ -34,5 +34,13 @@
 * Ссылка на проект: [Первый проект]
 </details>
 
+---
+
+Со мной можно связаться через:
+1. [Telegram]
+2. [VK]
+3. Или же через мою почту alanhis043@gmail.com
 
 [Первый проект]: https://github.com/Alanhis/react-burger/tree/master
+[Telegram]: https://t.me/Alanhis
+[VK]: https://vk.com/alanchik40
